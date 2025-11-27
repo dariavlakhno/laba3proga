@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\bin\Debug\laba3proga.exe.config
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\bin\Debug\laba3proga.exe
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\bin\Debug\laba3proga.pdb
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\obj\Debug\laba3proga.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\obj\Debug\laba3proga.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\obj\Debug\laba3proga.exe
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\obj\Debug\laba3proga.pdb
+C:\Users\Lenovo\Desktop\labaproga\laba3proga\laba3proga\obj\Debug\laba3proga.exe.config
