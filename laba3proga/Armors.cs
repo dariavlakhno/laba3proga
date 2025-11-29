@@ -9,13 +9,19 @@ namespace laba3proga
     public class HeavyArmor : IArmor
     {
         private float defense;
-        private GameLogger logger;
+        private readonly GameLogger logger;
+
         public HeavyArmor()
         {
-            defense = 0.3f;
-            logger = GameLogger.GetInstance();
+            this.logger = GameLogger.GetInstance();
+            this.defense = 0.3f;
         }
-        public float GetDefense() => defense;
+
+        public float GetDefense()
+        {
+            return defense;
+        }
+
         public void Use()
         {
             logger.Log("Тяжелая броня блокирует значительную часть урона");
@@ -24,13 +30,19 @@ namespace laba3proga
     public class LightArmor : IArmor
     {
         private float defense;
-        private GameLogger logger;
+        private readonly GameLogger logger;
+
         public LightArmor()
         {
-            defense = 0.2f;
-            logger = GameLogger.GetInstance();
+            this.logger = GameLogger.GetInstance();
+            this.defense = 0.2f;
         }
-        public float GetDefense() => defense;
+
+        public float GetDefense()
+        {
+            return defense;
+        }
+
         public void Use()
         {
             logger.Log("Легкая броня блокирует урон");
@@ -39,13 +51,19 @@ namespace laba3proga
     public class Robe : IArmor
     {
         private float defense;
-        private GameLogger logger;
+        private readonly GameLogger logger;
+
         public Robe()
         {
-            defense = 0.1f;
-            logger = GameLogger.GetInstance();
+            this.logger = GameLogger.GetInstance();
+            this.defense = 0.1f;
         }
-        public float GetDefense() => defense;
+
+        public float GetDefense()
+        {
+            return defense;
+        }
+
         public void Use()
         {
             logger.Log("Роба блокирует немного урона");

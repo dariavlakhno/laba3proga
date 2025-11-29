@@ -16,4 +16,12 @@ namespace laba3proga
         float GetDefense();
         void Use();
     }
+    public interface IEquipmentChest
+    {
+        // возвращает некое оружие
+        IWeapon GetWeapon();
+
+        // возвращает некую броню
+        IArmor GetArmor();
+    }
 }

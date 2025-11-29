@@ -8,8 +8,9 @@ namespace laba3proga
 {
     public enum CharacterClass
     {
-        Warrior = 100,
-        Thief = 90,
-        Mage = 80
-    }
+        WARRIOR,
+        THIEF,
+        MAGE
+    } 
+    
 }

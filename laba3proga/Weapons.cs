@@ -9,13 +9,19 @@ namespace laba3proga
     public class Sword : IWeapon
     {
         private int damage;
-        private GameLogger logger;
+        private readonly GameLogger logger;
+
         public Sword()
         {
-            damage = 20;
-            logger = GameLogger.GetInstance();
+            this.damage = 20;
+            this.logger = GameLogger.GetInstance();
         }
-        public int GetDamage() => damage;
+
+        public int GetDamage()
+        {
+            return damage;
+        }
+
         public void Use()
         {
             logger.Log("Удар мечом!");
@@ -26,26 +32,30 @@ namespace laba3proga
         private int damage;
         private double criticalChance;
         private int criticalModifier;
-        private GameLogger logger;
-        private Random random;
+        private readonly GameLogger logger;
+        private readonly Random random;
+
         public Bow()
         {
-            damage = 15;
-            criticalChance = 0.3;
-            criticalModifier = 2;
-            logger = GameLogger.GetInstance();
-            random = new Random();
+            this.damage = 15;
+            this.criticalChance = 0.3;
+            this.criticalModifier = 2;
+            this.logger = GameLogger.GetInstance();
+            this.random = new Random();
         }
+
         public int GetDamage()
         {
             double roll = random.NextDouble();
             if (roll <= criticalChance)
             {
                 logger.Log("Критический урон!");
-                return damage *criticalModifier;
+                return damage * criticalModifier;
             }
+
             return damage;
         }
+
         public void Use()
         {
             logger.Log("Выстрел из лука!");
@@ -55,21 +65,25 @@ namespace laba3proga
     {
         private int damage;
         private double scatter;
-        private GameLogger logger;
-        private Random random;
+        private readonly GameLogger logger;
+        private readonly Random random;
+
         public Staff()
         {
-            damage = 25;
-            scatter = 0.2;
-            logger = GameLogger.GetInstance();
-            random = new Random();
+            this.damage = 25;
+            this.scatter = 0.2;
+            this.logger = GameLogger.GetInstance();
+            this.random = new Random();
         }
+
         public int GetDamage()
         {
             double roll = random.NextDouble();
             double factor = 1 + (roll * 2 * scatter - scatter);
+
             return (int)Math.Round(damage * factor);
         }
+
         public void Use()
         {
             logger.Log("Воздух накаляется, из посоха вылетает огненный шар!");
