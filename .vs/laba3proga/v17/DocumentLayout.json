@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|c:\\users\\lenovo\\desktop\\labaproga\\laba3proga\\laba3proga\\location(fabric).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\location(fabric).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|c:\\users\\lenovo\\desktop\\labaproga\\laba3proga\\laba3proga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|c:\\users\\lenovo\\desktop\\labaproga\\laba3proga\\laba3proga\\chest(abstract).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\chest(abstract).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\gamelogger(singleton).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\gamelogger(singleton).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +15,32 @@
       "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\armors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\armors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\characterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\characterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\character(builder).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\character(builder).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\characterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\characterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\gamelogger(singleton).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\gamelogger(singleton).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\chest(abstract).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\chest(abstract).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\armors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\armors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|c:\\users\\lenovo\\desktop\\labaproga\\laba3proga\\laba3proga\\location(fabric).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017D112D-C617-46C0-B14A-3BAD8C629F01}|laba3proga\\laba3proga.csproj|solutionrelative:laba3proga\\location(fabric).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +50,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "GameLogger(singleton).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\GameLogger(singleton).cs",
               "RelativeDocumentMoniker": "laba3proga\\GameLogger(singleton).cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\GameLogger(singleton).cs",
               "RelativeToolTip": "laba3proga\\GameLogger(singleton).cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:16:18.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Enemy.cs",
               "RelativeDocumentMoniker": "laba3proga\\Enemy.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Enemy.cs",
               "RelativeToolTip": "laba3proga\\Enemy.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T20:22:32.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Interfaces.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Interfaces.cs",
               "RelativeDocumentMoniker": "laba3proga\\Interfaces.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Interfaces.cs",
               "RelativeToolTip": "laba3proga\\Interfaces.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:33:39.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "CharacterClass.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\CharacterClass.cs",
               "RelativeDocumentMoniker": "laba3proga\\CharacterClass.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\CharacterClass.cs",
               "RelativeToolTip": "laba3proga\\CharacterClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T21:46:01.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Character(builder).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Character(builder).cs",
               "RelativeDocumentMoniker": "laba3proga\\Character(builder).cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Character(builder).cs",
               "RelativeToolTip": "laba3proga\\Character(builder).cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T20:05:09.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Weapons.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Weapons.cs",
               "RelativeDocumentMoniker": "laba3proga\\Weapons.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Weapons.cs",
               "RelativeToolTip": "laba3proga\\Weapons.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:39:20.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Armors.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Armors.cs",
               "RelativeDocumentMoniker": "laba3proga\\Armors.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Armors.cs",
               "RelativeToolTip": "laba3proga\\Armors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:57:30.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Chest(abstract).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Chest(abstract).cs",
               "RelativeDocumentMoniker": "laba3proga\\Chest(abstract).cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Chest(abstract).cs",
               "RelativeToolTip": "laba3proga\\Chest(abstract).cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:59:20.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Location(fabric).cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Location(fabric).cs",
               "RelativeDocumentMoniker": "laba3proga\\Location(fabric).cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Location(fabric).cs",
               "RelativeToolTip": "laba3proga\\Location(fabric).cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAwDEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T20:26:08.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Program.cs",
               "RelativeDocumentMoniker": "laba3proga\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\labaproga\\laba3proga\\laba3proga\\Program.cs",
               "RelativeToolTip": "laba3proga\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAACMAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T19:11:11.178Z",
               "EditorCaption": ""

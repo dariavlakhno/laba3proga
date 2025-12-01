@@ -12,7 +12,6 @@ namespace laba3proga
         {
             return new Sword();
         }
-
         public IArmor GetArmor()
         {
             return new HeavyArmor();
@@ -24,7 +23,6 @@ namespace laba3proga
         {
             return new Staff();
         }
-
         public IArmor GetArmor()
         {
             return new Robe();
@@ -36,7 +34,6 @@ namespace laba3proga
         {
             return new Bow();
         }
-
         public IArmor GetArmor()
         {
             return new LightArmor();

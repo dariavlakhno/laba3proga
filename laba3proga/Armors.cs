@@ -10,18 +10,15 @@ namespace laba3proga
     {
         private float defense;
         private readonly GameLogger logger;
-
         public HeavyArmor()
         {
             this.logger = GameLogger.GetInstance();
             this.defense = 0.3f;
         }
-
         public float GetDefense()
         {
             return defense;
         }
-
         public void Use()
         {
             logger.Log("Тяжелая броня блокирует значительную часть урона");
@@ -31,18 +28,15 @@ namespace laba3proga
     {
         private float defense;
         private readonly GameLogger logger;
-
         public LightArmor()
         {
             this.logger = GameLogger.GetInstance();
             this.defense = 0.2f;
         }
-
         public float GetDefense()
         {
             return defense;
         }
-
         public void Use()
         {
             logger.Log("Легкая броня блокирует урон");
@@ -52,18 +46,15 @@ namespace laba3proga
     {
         private float defense;
         private readonly GameLogger logger;
-
         public Robe()
         {
             this.logger = GameLogger.GetInstance();
             this.defense = 0.1f;
         }
-
         public float GetDefense()
         {
             return defense;
         }
-
         public void Use()
         {
             logger.Log("Роба блокирует немного урона");

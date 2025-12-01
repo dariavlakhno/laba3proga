@@ -11,6 +11,5 @@ namespace laba3proga
         WARRIOR,
         THIEF,
         MAGE
-    } 
-    
+    }     
 }

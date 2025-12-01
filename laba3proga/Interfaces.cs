@@ -18,10 +18,7 @@ namespace laba3proga
     }
     public interface IEquipmentChest
     {
-        // возвращает некое оружие
         IWeapon GetWeapon();
-
-        // возвращает некую броню
         IArmor GetArmor();
     }
 }

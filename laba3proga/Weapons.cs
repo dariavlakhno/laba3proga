@@ -10,18 +10,15 @@ namespace laba3proga
     {
         private int damage;
         private readonly GameLogger logger;
-
         public Sword()
         {
             this.damage = 20;
             this.logger = GameLogger.GetInstance();
         }
-
         public int GetDamage()
         {
             return damage;
         }
-
         public void Use()
         {
             logger.Log("Удар мечом!");
@@ -34,7 +31,6 @@ namespace laba3proga
         private int criticalModifier;
         private readonly GameLogger logger;
         private readonly Random random;
-
         public Bow()
         {
             this.damage = 15;
@@ -43,7 +39,6 @@ namespace laba3proga
             this.logger = GameLogger.GetInstance();
             this.random = new Random();
         }
-
         public int GetDamage()
         {
             double roll = random.NextDouble();
@@ -52,10 +47,8 @@ namespace laba3proga
                 logger.Log("Критический урон!");
                 return damage * criticalModifier;
             }
-
             return damage;
         }
-
         public void Use()
         {
             logger.Log("Выстрел из лука!");
@@ -67,7 +60,6 @@ namespace laba3proga
         private double scatter;
         private readonly GameLogger logger;
         private readonly Random random;
-
         public Staff()
         {
             this.damage = 25;
@@ -75,7 +67,6 @@ namespace laba3proga
             this.logger = GameLogger.GetInstance();
             this.random = new Random();
         }
-
         public int GetDamage()
         {
             double roll = random.NextDouble();
@@ -83,7 +74,6 @@ namespace laba3proga
 
             return (int)Math.Round(damage * factor);
         }
-
         public void Use()
         {
             logger.Log("Воздух накаляется, из посоха вылетает огненный шар!");
